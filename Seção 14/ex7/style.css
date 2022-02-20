@@ -1,0 +1,33 @@
+.pixel-1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.pai-porcentagem{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+}
+
+.porcentagem-1{
+    height: 50%;
+    width: 50%;
+    background-color: white;
+}
+
+.pai-em{
+    font-size: 50px;
+}
+
+.em-1{
+    width: 1em;
+    height: 1em;
+    background-color: blue;
+}
+
+.em-1{
+    width: 1rem;
+    height: 1rem;
+    background-color: purple;
+}

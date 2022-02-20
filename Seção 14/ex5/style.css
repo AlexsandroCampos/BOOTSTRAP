@@ -1,0 +1,47 @@
+body{
+    height: 300vh;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    
+}
+
+.static{
+    position: static;
+    right: 0;
+}
+
+.relative{
+    position: relative;
+    left: 50vw;
+}
+
+.absolute{
+    position: absolute;
+    right: 25vw;
+}
+
+.fixed{
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.sticky{
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
+/*
+static não é alterada pelo right, left, bottom e top
+relative está no flow do html, mas é alterada pelo right, left, bottom e top
+fixed se posiciona em qualquer lugar
+absolute se posiciona em qualquer lugar  do seu elemento pai
+sticky está no flow do HTML, mas quand passa o scroll ela vem junto (top é obrigatório)
+
+
+
+*/

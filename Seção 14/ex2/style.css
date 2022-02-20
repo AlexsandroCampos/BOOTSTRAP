@@ -1,0 +1,29 @@
+/* cores */
+
+.nome{
+    color: orange;
+}
+
+.hexa{
+    color: #6a40c4;
+}
+
+.rgba{
+    color: rgba(17, 197, 214, 1);
+}
+
+/* backgrounds */
+
+.div-background{
+    height: 300px;
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sunset_in_Manaus.jpg/640px-Sunset_in_Manaus.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+h1{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}

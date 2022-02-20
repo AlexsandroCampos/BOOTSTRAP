@@ -1,0 +1,21 @@
+.container{
+    padding: 50px;
+}
+
+img{
+    float: left;
+}
+
+.div-float{
+    overflow: auto;
+}
+
+.float-right{
+    float: right;
+}
+
+/*Ignora que o elemento próximo está usando float*/
+
+.clear{
+    clear: both;
+}
