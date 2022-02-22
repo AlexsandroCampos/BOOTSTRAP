@@ -1,0 +1,19 @@
+.col-1, .col-4{
+    padding: 10px;
+}
+
+.bi{
+    font-size: 50px;
+}
+
+.bi-currency-bitcoin{
+    color: blue;
+}
+
+.bi-discord{
+    color: blueviolet;
+}
+
+.bi-emoji-laughing{
+    color: red;
+}

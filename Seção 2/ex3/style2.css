@@ -1,0 +1,19 @@
+.container{
+    margin-top: 30px;
+    height: 500px;
+}
+
+.row{
+    padding: 10px;
+    height: 400px;
+}
+
+.col{
+    border: 2px solid black;
+    height: 200px;
+    background-color: blue;
+}
+
+.impar{
+    background-color: red;
+}

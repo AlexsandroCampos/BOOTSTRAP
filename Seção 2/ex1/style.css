@@ -1,0 +1,44 @@
+/* XS */
+h1{
+    color: red;
+}
+
+/* SM */
+@media(min-width: 576px){
+    h1{
+        color: blue;
+    }
+}
+
+/* MD */
+@media(min-width: 768px){
+    h1{
+        color: purple;
+    }
+}
+
+/* LG */
+@media(min-width: 992px){
+    h1{
+        color: pink;
+    }
+}
+
+/* XL */
+@media(min-width: 1200px){
+    h1{
+        color: green;
+    }
+}
+
+/* XXL */
+@media(min-width: 1400px){
+    h1{
+        color: white;
+    }
+}
+
+.btn-primary{
+    background-color: red;
+    border: red;
+}
